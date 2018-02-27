@@ -1,0 +1,11 @@
+﻿body {/* Old browsers */
+  background: #88CCF1;
+  margin: 0;
+  padding: 0;}
+h1, h2 {text-align: center; font-family: 'Lato', sans-serif;}
+h3, ul, p {font-family: Georgia;}
+p {font-size: 20px; text-align: center;}
+div {font-family: Georgia; font-size: 18px; padding: 10px 10px;}
+span {font-family: Georgia; font-size: 14px; padding: 20px 20px;}
+h3 {padding: 0px 10px;}
+ul {padding: 0px 80px;}
